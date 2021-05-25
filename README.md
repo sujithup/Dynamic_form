@@ -4,7 +4,7 @@ Website Link: https://dynamic-form-antstack.herokuapp.com/
 
 This project was developed for an assignment provided by Antstack company. The website is built using ReactJS. I used my previous work of ReactJs [contact form - check my repo] as the base for this assignment. 
 
-I am passionate about creating websites and mobile applications. Since I've had two assignments from other companies, I couldn't give my 100% to this assignment. Hope you guys liked my work done within a day. Any suggestions would be appreciated, please guide on the next process.
+I am passionate about creating websites and mobile applications. Since I had two assignments from other companies, I couldn't give my 100% to this assignment. Hope you guys liked my work done within a day. Any suggestions would be appreciated, please guide on the next process.
 
 ## To run this project in your IDE:
 1. Clone this repo
