@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #151E28!important;
+
+}
+
+.center{
+  text-align: center;
+  font-family: 'Mulish';
+  padding-top: 40px;
+}
+
+.row{
+  margin-bottom: 30px;
+}
+
+.boxwidth{
+  width: 10px;
+}
+
+.form-group{
+  margin-right: 30px!important;
+}
